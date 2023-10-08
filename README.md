@@ -3,8 +3,7 @@ Author: Tiago Lopes
 Date: 12/06/2022
 Course: ECE6122-Q
 ---
----
-
+# java-websocket-chat
 This application is a multithreaded client-server chatroom implementing sockets. It is created as the final project
 submission for ECE6122 as per the requirements outlined in the self-submitted rubric.
 
